@@ -1,0 +1,8 @@
+Author: Michal Karpinski
+
+Little paper I wrote about trie data structure and how it can be used to implement associative array in C++.
+
+1. All code for trie is in src/trie.h
+2. Container class for ASSOCIATIVE ARRAY is in assoc_array.h
+3. For full paper see doc/raport.tex
+4. src/trie.cpp is the sandbox-testing file. Feel free to remove it.
